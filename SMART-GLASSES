@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نظارات SAFX الذكية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #6a4cfc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px 10%;
+        }
+        section h2 {
+            color: #6a4cfc;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .content div {
+            width: 45%;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #6a4cfc;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SAFX - نظارات ذكية مترابطة بالذكاء الاصطناعي</h1>
+    </header>
+
+    <section id="overview">
+        <h2>عن النظارات الذكية</h2>
+        <div class="content">
+            <div>
+                <p>نظارات SAFX الذكية تم تصميمها لتمكين المستخدمين من التواصل الفوري عبر الترجمة الذكية في الوقت الفعلي باستخدام الذكاء الاصطناعي. توفر هذه النظارات حلولًا مبتكرة للأفراد والشركات التي تعمل في بيئات متعددة اللغات.</p>
+                <img src="path_to_image" alt="نظارات ذكية">
+            </div>
+            <div>
+                <p>النظارات تعتمد على تقنيات AI المتقدمة من أجل توفير الترجمة الحية بين 144 لغة. تتيح للمستخدمين التفاعل بدون الحاجة للشاشات أو الهواتف، مما يجعلها مثالية للأعمال التجارية، السفر، والتعليم.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="benefits">
+        <h2>من سيستفيد من هذه النظارات؟</h2>
+        <div class="content">
+            <div>
+                <img src="path_to_image" alt="مستفيدين من النظارات">
+            </div>
+            <div>
+                <ul>
+                    <li>المسافرون الذين يكتشفون دولًا جديدة.</li>
+                    <li>المهنيون الذين يحضرون الاجتماعات الدولية.</li>
+                    <li>الطلاب الدوليون الذين يدرسون في الخارج.</li>
+                    <li>الشركات العالمية والفرق متعددة الجنسيات.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="features">
+        <h2>الميزات الرئيسية للنظارات الذكية</h2>
+        <div class="content">
+            <div>
+                <img src="path_to_image" alt="ميزات النظارات">
+            </div>
+            <div>
+                <ul>
+                    <li>يدعم 144 لغة مع ترجمة فورية ثنائية الاتجاه.</li>
+                    <li>دعم تقنيات AI وChatGPT للتفاعل الطبيعي.</li>
+                    <li>وضعيات ترجمة متعددة للحالات المختلفة.</li>
+                    <li>مكبرات صوت مدمجة لترجمة الصوت بشكل واضح.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 SAFX - كل الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
